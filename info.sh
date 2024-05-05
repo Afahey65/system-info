@@ -9,6 +9,8 @@ output_file="output.txt"
 red='\033[0;31m' # Red color
 NC='\033[0m'     # No color (reset)
 
+printf "$red\n OUTPUT IS SAVED TO output.txt\n$NC"
+
 printf "$red Welcome to Aidan's System Info script $NC" 
 #date and time
 printf "$red\n---- The date is:\n$NC"
