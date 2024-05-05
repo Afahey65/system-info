@@ -42,4 +42,4 @@ printf "$red\n---- Storage Information: \n$NC"
 	
 
 #5 lines of error for some reason
-printf "\nerror\nerror\nerror\nerror\nerror"
+printf "\nerror\nerror\nerror\nerror\nerror\n"
